@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="781f815b-021a-48ac-b4c7-c2d980e89609" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/io/github/hooj0/jmh/JMHSample_01_HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +45,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/io/github/hooj0/stopwatch" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -189,7 +189,7 @@
       <option name="presentableId" value="Default" />
       <updated>1642746275257</updated>
       <workItem from="1642746276624" duration="7109000" />
-      <workItem from="1645063311290" duration="31162000" />
+      <workItem from="1645063311290" duration="31450000" />
     </task>
     <servers />
   </component>

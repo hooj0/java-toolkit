@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="781f815b-021a-48ac-b4c7-c2d980e89609" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="781f815b-021a-48ac-b4c7-c2d980e89609" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,33 +60,7 @@
       <recent name="io.github.hooj0.retry" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JMHSample_08_DeadCode">
-    <configuration name="JMHSample_01_HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.github.hooj0.jmh.JMHSample_01_HelloWorld" />
-      <module name="java_toolkit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.github.hooj0.jmh.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JMHSample_02_BenchmarkModes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.github.hooj0.jmh.JMHSample_02_BenchmarkModes" />
-      <module name="java_toolkit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.github.hooj0.jmh.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.JMHSample_09_Blackholes">
     <configuration name="JMHSample_03_States" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="io.github.hooj0.jmh.JMHSample_03_States" />
       <module name="java_toolkit" />
@@ -167,16 +139,42 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="JMHSample_09_Blackholes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.github.hooj0.jmh.JMHSample_09_Blackholes" />
+      <module name="java_toolkit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.github.hooj0.jmh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.github.hooj0.jmh.Test" />
+      <module name="java_toolkit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.github.hooj0.jmh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.JMHSample_09_Blackholes" />
         <item itemvalue="Application.JMHSample_08_DeadCode" />
         <item itemvalue="Application.JMHSample_07_FixtureLevelInvocation" />
         <item itemvalue="Application.JMHSample_06_FixtureLevel" />
         <item itemvalue="Application.JMHSample_05_StateFixtures" />
         <item itemvalue="Application.JMHSample_04_DefaultState" />
         <item itemvalue="Application.JMHSample_03_States" />
-        <item itemvalue="Application.JMHSample_01_HelloWorld" />
-        <item itemvalue="Application.JMHSample_02_BenchmarkModes" />
       </list>
     </recent_temporary>
   </component>
@@ -189,7 +187,10 @@
       <option name="presentableId" value="Default" />
       <updated>1642746275257</updated>
       <workItem from="1642746276624" duration="7109000" />
-      <workItem from="1645063311290" duration="31450000" />
+      <workItem from="1645063311290" duration="35725000" />
+      <workItem from="1645496942011" duration="1920000" />
+      <workItem from="1645519672651" duration="31005000" />
+      <workItem from="1646099998133" duration="13442000" />
     </task>
     <servers />
   </component>
